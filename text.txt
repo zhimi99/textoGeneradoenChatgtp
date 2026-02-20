@@ -1,3 +1,4 @@
+START OF
 Ecuador desde 1995 hasta la actualidad
 Política, Cultura y Turismo
 Desde 1995 hasta hoy, Ecuador ha vivido una transformación profunda marcada por crisis económicas, cambios políticos intensos, fortalecimiento cultural y crecimiento del turismo como eje estratégico del país.
@@ -75,3 +76,5 @@ Si quieres, puedo convertir este texto en:
 📰 Artículo tipo revista
 🎓 Ensayo con introducción, desarrollo y conclusión formal
 ¿Para qué lo necesitas?
+
+END OF
